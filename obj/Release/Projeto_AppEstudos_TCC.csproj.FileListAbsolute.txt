@@ -1,0 +1,11 @@
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\bin\Release\Projeto_AppEstudos_TCC.exe.config
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\bin\Release\Projeto_AppEstudos_TCC.exe
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\bin\Release\Projeto_AppEstudos_TCC.pdb
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Release\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Release\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Release\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Release\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Release\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Release\Projeto_AppEstudos_TCC.exe
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Release\Projeto_AppEstudos_TCC.pdb
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Release\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache

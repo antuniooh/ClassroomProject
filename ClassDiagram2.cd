@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projeto_AppEstudos_TCC.FrmLogin">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAFAXggECCEkASAAASEBAACBUAABAAAADAAIQgIaAo=</HashCode>
+      <FileName>FrmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.FrmCadastro">
+    <Position X="2.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CEBAgUAgQCAlACaEQEWIISFHZQQHFgSAgDRcoWii4Co=</HashCode>
+      <FileName>FrmCadastro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.FrmRecuperar">
+    <Position X="5.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABQAAAAQCAAAACAAAAAAAAAIAAgAAAAAA=</HashCode>
+      <FileName>FrmRecuperar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.FrmDesativado">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgBAAAAAACBBQAQAAESIIAAiAAAAAoACIAAIgAggUCg=</HashCode>
+      <FileName>FrmDesativado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.FrmEsqueciSenha">
+    <Position X="9.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAgACQBQAQAAESAAAACAQAYAgACoEAQAQAAUIg=</HashCode>
+      <FileName>FrmEsqueciSenha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.FrmMain">
+    <Position X="12.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAiAAAQECAhMwMEgISIAFAGRSwABAAAgAAAIBoARAk=</HashCode>
+      <FileName>FrmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.UserControlCronograma">
+    <Position X="16" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAACAAAIQAAACAAAQCIAAgAAAAAAAAAIAQAAA=</HashCode>
+      <FileName>UserControlCronograma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.UserControlExercicios">
+    <Position X="18.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAEQUABQACYBRAQIAICAAgACAgAQAAAAAAgAACAAAAA=</HashCode>
+      <FileName>UserControlExercicios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.UserControlHome">
+    <Position X="20.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEECAAAAQAAACAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>UserControlHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.UserControlRedacao">
+    <Position X="22.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACAACACAAAIQIAACAAAACJAAAAgAAAAAQAAAAQCI=</HashCode>
+      <FileName>UserControlRedacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.UserControlResumos">
+    <Position X="25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAFAUABQACYBRAQIAYCAAgACAAAQAAAAAAgAACAAAAA=</HashCode>
+      <FileName>UserControlResumos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.UserControlUsuario">
+    <Position X="27.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgDAAAAQASEAAgZogRSAYAACAQAAAAAAAAQAICCAQAg=</HashCode>
+      <FileName>UserControlUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.UserControlVideoAulas">
+    <Position X="29.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAEAUABQACYBRAQIAYCAAgACAAAQAAAAAAgAACAAAAA=</HashCode>
+      <FileName>UserControlVideoAulas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.FrmAlterar">
+    <Position X="32.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AERACAAIIGAicJqQAASIMGACAABABowggARAQgAASGo=</HashCode>
+      <FileName>FrmAlterar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.FrmExcluir">
+    <Position X="34.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAKAAAICAAAWAIoBCEABAAAABAAAAAAAgQAs=</HashCode>
+      <FileName>Excluir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.FrmDeslogar">
+    <Position X="37.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACGAAAAQAAASAAAACAAAABAAAABAAAAAAQAg=</HashCode>
+      <FileName>FrmDeslogar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.Desempenho">
+    <Position X="39.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AUAAgAAEACAAAAQAAASABAACBAAAECQQABIAAQAEQAg=</HashCode>
+      <FileName>Desempenho.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.Matematica">
+    <Position X="42.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAYCAAgACAABAQAAACAAAECBAAAgAAAgEAAASgAYAA=</HashCode>
+      <FileName>Matéria\Matematica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.Teste">
+    <Position X="45.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QBBgRCAgACCEwhgAgASABAACFAAEAQQUBAAQAQgAYAk=</HashCode>
+      <FileName>Teste.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.Redacao">
+    <Position X="48.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAkACAAIAQAAACQAAAGBAAAAQQAAAAAA4AAAAA=</HashCode>
+      <FileName>Redacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.PossTemas">
+    <Position X="50.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABQAToBQCAAAACAAAAAQQAAAAAAAAAAAI=</HashCode>
+      <FileName>PossTemas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.UltTemas">
+    <Position X="52.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABQAToDQCAAAACAAAAAAQAAAAAAAAAAAI=</HashCode>
+      <FileName>UltTemas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.Avaliacao">
+    <Position X="55" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABQARoAACAAAASAAAAAAAAAAAAAQAAAAI=</HashCode>
+      <FileName>Avaliacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_AppEstudos_TCC.Enem">
+    <Position X="57.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAQAAAKAAAASDAAAAAQAgAAAAQAAAAA=</HashCode>
+      <FileName>Enem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

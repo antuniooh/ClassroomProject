@@ -1,0 +1,1273 @@
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\familia silva\Desktop\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+G:\Nova pasta\Projeto_AppEstudos_TCC\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+G:\Nova pasta\Projeto_AppEstudos_TCC\bin\Debug\Projeto_AppEstudos_TCC.exe
+G:\Nova pasta\Projeto_AppEstudos_TCC\bin\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.exe
+G:\Nova pasta\Projeto_AppEstudos_TCC\obj\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\bin\Debug\Projeto_AppEstudos_TCC.exe
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\bin\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.exe
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+H:\Nova pasta\PTI - Cleiton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\bin\Debug\Projeto_AppEstudos_TCC.exe
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\bin\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfigurações.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.exe
+G:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.pdb
+I:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+I:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.exe
+I:\Nova pasta\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\bin\Debug\Projeto_AppEstudos_TCC.exe
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\bin\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.exe
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC - Copia\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\bin\Debug\Projeto_AppEstudos_TCC.exe
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\bin\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.exe
+H:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\bin\Debug\Projeto_AppEstudos_TCC.exe
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\bin\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.exe
+G:\Nova pasta\3° Semestre\DES - Hamilton\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\ETELG\Desktop\Projeto_AppEstudos_TCC 02\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\LAB2656-17\Desktop\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+H:\Nova pasta\TCC - Programando Config\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+H:\Nova pasta\Nova pasta\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+G:\Nova pasta\TCC - Programando Config (certo)\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\LAB2656-17\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+D:\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\LAB2656-17\Desktop\21-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\LAB2656-17\Desktop\28-03\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+H:\28-03-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\11-04-2018\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlConfiguraçõesUsuario.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\xDxD\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\02.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\08.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TesteMatematica.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TesteMatematica.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\ETELG\Desktop\12.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TesteMatematica.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TesteMatematica.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+H:\Hamilton\15.05\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TesteMatematica.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\LAB2656-17\Desktop\Projeto - Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TesteMatematica.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\Pendrive\Projeto - Classroom 2\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+C:\Users\prado\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+D:\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+C:\Users\ETELG\Desktop\Classroom\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.VideoReal.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.VideoReal.resources
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+I:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.VideoReal.resources
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+G:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlRedacao.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.VideoReal.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Redacao.resources
+E:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Resumo.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.PossTemas.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Redacao.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Resumo.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UltTemas.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlRedacao.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.VideoReal.resources
+D:\Classroom - Aula\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Avaliacao.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Avaliacao.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.PossTemas.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Redacao.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Resumo.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UltTemas.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlRedacao.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.VideoReal.resources
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Splash.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Avaliacao.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.PossTemas.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Redacao.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Resumo.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Splash.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UltTemas.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlRedacao.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.VideoReal.resources
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+H:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Avaliacao.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Excluir.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.PossTemas.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Redacao.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Resumo.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Splash.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UltTemas.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlRedacao.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.VideoReal.resources
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+D:\Classroom - 1006\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Avaliacao.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmExcluir.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.PossTemas.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Redacao.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Resumo.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Splash.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UltTemas.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlRedacao.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+G:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.exe
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\bin\Debug\Projeto_AppEstudos_TCC.pdb
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Avaliacao.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmExcluir.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.PossTemas.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Redacao.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Resumo.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Splash.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UltTemas.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlRedacao.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.exe
+D:\Classroom - aaa\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.pdb
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Avaliacao.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmExcluir.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.PossTemas.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Redacao.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Resumo.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Splash.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UltTemas.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlRedacao.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+C:\Users\prado\Desktop\Projeto_AppEstudos_TCC 02 - programado\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+I:\TCC PRONTASSO\bin\Debug\Projeto_AppEstudos_TCC.exe.config
+I:\TCC PRONTASSO\bin\Debug\Projeto_AppEstudos_TCC.exe
+I:\TCC PRONTASSO\bin\Debug\Projeto_AppEstudos_TCC.pdb
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.csprojResolveAssemblyReference.cache
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Avaliacao.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Biologia.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Desempenho.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Enem.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Estrangeira.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.FrmExcluir.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Filosofia.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Fisica.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.FrmAlterar.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.FrmCadastro.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.FrmDesativado.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.FrmDeslogar.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.FrmEsqueciSenha.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.FrmLogin.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.FrmMain.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.FrmRecuperar.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.FrmSair.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.FrmSairLogin.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Fuvest.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Historia.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Matematica.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Portugues.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.PossTemas.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Properties.Resources.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Quimica.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Redacao.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Resumo.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Simulados.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Splash.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Teste.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.TestesSimulados.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.UltTemas.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.UNESP.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Unicamp.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.UserControlCronograma.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.UserControlExercicios.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.UserControlHome.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.UserControlRedacao.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.UserControlResumos.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.UserControlUsuario.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.UserControlVideoAulas.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.Video.resources
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.csproj.GenerateResource.Cache
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.csproj.CoreCompileInputs.cache
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.exe
+I:\TCC PRONTASSO\obj\Debug\Projeto_AppEstudos_TCC.pdb

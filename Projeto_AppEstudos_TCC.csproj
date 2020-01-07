@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{198D1F4A-6FD8-4AD4-BB5D-CB135EA3CCB0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projeto_AppEstudos_TCC</RootNamespace>
+    <AssemblyName>Projeto_AppEstudos_TCC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Avaliacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Avaliacao.Designer.cs">
+      <DependentUpon>Avaliacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matéria\Biologia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matéria\Biologia.Designer.cs">
+      <DependentUpon>Biologia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desempenho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desempenho.Designer.cs">
+      <DependentUpon>Desempenho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Enem.Designer.cs">
+      <DependentUpon>Enem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matéria\Estrangeira.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matéria\Estrangeira.Designer.cs">
+      <DependentUpon>Estrangeira.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excluir.Designer.cs">
+      <DependentUpon>Excluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matéria\Filosofia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matéria\Filosofia.Designer.cs">
+      <DependentUpon>Filosofia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matéria\Fisica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matéria\Fisica.Designer.cs">
+      <DependentUpon>Fisica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAlterar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlterar.Designer.cs">
+      <DependentUpon>FrmAlterar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCadastro.Designer.cs">
+      <DependentUpon>FrmCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDesativado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDesativado.Designer.cs">
+      <DependentUpon>FrmDesativado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeslogar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeslogar.Designer.cs">
+      <DependentUpon>FrmDeslogar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEsqueciSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEsqueciSenha.Designer.cs">
+      <DependentUpon>FrmEsqueciSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRecuperar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRecuperar.Designer.cs">
+      <DependentUpon>FrmRecuperar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSair.Designer.cs">
+      <DependentUpon>FrmSair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSairLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSairLogin.Designer.cs">
+      <DependentUpon>FrmSairLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fuvest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuvest.Designer.cs">
+      <DependentUpon>Fuvest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matéria\Historia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matéria\Historia.Designer.cs">
+      <DependentUpon>Historia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matéria\Matematica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matéria\Matematica.Designer.cs">
+      <DependentUpon>Matematica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matéria\Portugues.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matéria\Portugues.Designer.cs">
+      <DependentUpon>Portugues.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PossTemas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PossTemas.Designer.cs">
+      <DependentUpon>PossTemas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Matéria\Quimica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matéria\Quimica.Designer.cs">
+      <DependentUpon>Quimica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Redacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Redacao.Designer.cs">
+      <DependentUpon>Redacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resumo.Designer.cs">
+      <DependentUpon>Resumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Simulados.Designer.cs">
+      <DependentUpon>Simulados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teste.Designer.cs">
+      <DependentUpon>Teste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestesSimulados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestesSimulados.Designer.cs">
+      <DependentUpon>TestesSimulados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UltTemas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UltTemas.Designer.cs">
+      <DependentUpon>UltTemas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UNESP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UNESP.Designer.cs">
+      <DependentUpon>UNESP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unicamp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unicamp.Designer.cs">
+      <DependentUpon>Unicamp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlCronograma.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlCronograma.Designer.cs">
+      <DependentUpon>UserControlCronograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlExercicios.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlExercicios.Designer.cs">
+      <DependentUpon>UserControlExercicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlHome.Designer.cs">
+      <DependentUpon>UserControlHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlRedacao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlRedacao.Designer.cs">
+      <DependentUpon>UserControlRedacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlResumos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlResumos.Designer.cs">
+      <DependentUpon>UserControlResumos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlUsuario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlUsuario.Designer.cs">
+      <DependentUpon>UserControlUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlVideoAulas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlVideoAulas.Designer.cs">
+      <DependentUpon>UserControlVideoAulas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Video.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Video.Designer.cs">
+      <DependentUpon>Video.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Avaliacao.resx">
+      <DependentUpon>Avaliacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matéria\Biologia.resx">
+      <DependentUpon>Biologia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desempenho.resx">
+      <DependentUpon>Desempenho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Enem.resx">
+      <DependentUpon>Enem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matéria\Estrangeira.resx">
+      <DependentUpon>Estrangeira.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excluir.resx">
+      <DependentUpon>Excluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matéria\Filosofia.resx">
+      <DependentUpon>Filosofia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matéria\Fisica.resx">
+      <DependentUpon>Fisica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAlterar.resx">
+      <DependentUpon>FrmAlterar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadastro.resx">
+      <DependentUpon>FrmCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDesativado.resx">
+      <DependentUpon>FrmDesativado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeslogar.resx">
+      <DependentUpon>FrmDeslogar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEsqueciSenha.resx">
+      <DependentUpon>FrmEsqueciSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRecuperar.resx">
+      <DependentUpon>FrmRecuperar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSair.resx">
+      <DependentUpon>FrmSair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSairLogin.resx">
+      <DependentUpon>FrmSairLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuvest.resx">
+      <DependentUpon>Fuvest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matéria\Historia.resx">
+      <DependentUpon>Historia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matéria\Matematica.resx">
+      <DependentUpon>Matematica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matéria\Portugues.resx">
+      <DependentUpon>Portugues.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PossTemas.resx">
+      <DependentUpon>PossTemas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Matéria\Quimica.resx">
+      <DependentUpon>Quimica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Redacao.resx">
+      <DependentUpon>Redacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resumo.resx">
+      <DependentUpon>Resumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulados.resx">
+      <DependentUpon>Simulados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teste.resx">
+      <DependentUpon>Teste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestesSimulados.resx">
+      <DependentUpon>TestesSimulados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UltTemas.resx">
+      <DependentUpon>UltTemas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UNESP.resx">
+      <DependentUpon>UNESP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unicamp.resx">
+      <DependentUpon>Unicamp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlCronograma.resx">
+      <DependentUpon>UserControlCronograma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlExercicios.resx">
+      <DependentUpon>UserControlExercicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlHome.resx">
+      <DependentUpon>UserControlHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlRedacao.resx">
+      <DependentUpon>UserControlRedacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlResumos.resx">
+      <DependentUpon>UserControlResumos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlUsuario.resx">
+      <DependentUpon>UserControlUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlVideoAulas.resx">
+      <DependentUpon>UserControlVideoAulas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Video.resx">
+      <DependentUpon>Video.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagens\enem.jpg" />
+    <Content Include="Imagens\fuvest.png" />
+    <Content Include="Imagens\logo-redondo.ico" />
+    <Content Include="Imagens\logo.jpg" />
+    <Content Include="Imagens\redacao.png" />
+    <Content Include="Imagens\unesp.jpg" />
+    <Content Include="Imagens\unicamp.jpg" />
+    <Content Include="Imagens\usuario.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

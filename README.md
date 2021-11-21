@@ -40,52 +40,61 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 💻 About The Project
-Projeto para conclusão do curso técnico de informática da ETEC Lauro Gomes. Foi desenvolvido na linguagem de programação C# e possui conexão ao banco de dados externo por meio do SQLServer. O projeto consiste em um software de estudos, apresentando resumos, videoaulas, exercícios e informações dos maiores vestibulares do país. 
+Project for completion of the technical course in computing at ETEC Lauro Gomes. It was developed in the C# programming language and has a connection to an external database through SQLServer. The project consists of a study software, presenting summaries, video classes, exercises and information on the biggest entrance exams in the country.
 
-## Funcionalidade
-
-Logo que iniciado o software solicita ao usuário a criação de uma conta para acessar as funcionalidades:
+Once started, the software asks the user to create an account to access the features:
 
 ![image](images/login.jpeg)
 
-O usuário após se cadastrar no banco de dados, é encaminhado para a tela de login onde deve se autenticar.
+The user, after registering in the database, is forwarded to the login screen where he must authenticate.
 
 ![image](images/signUp.jpeg)
 
 
-**Usuário** - O sistema permite personalização do usuário, podendo mudar o nome e foto, além de outros dados cadastrais. O mesmo pode também soliciar a remoção de sua conta do banco de dados, há também a possibilidade de solicitar uma mudança de senha por e-mail, caso o usuário a esqueça. Além disso, o mesmo pode ver seu desempenho em simulados.
+**Usuário** - The system allows user customization, being able to change the name and photo, in addition to other registration data. It can also request the removal of its account from the database, there is also the possibility of requesting a password change by email, in case the user forgets it. Also, it can see its performance in simulated.
 
 ![image](images/user.jpeg)
 
-O sistema possui o essencial para o aluno que deseja estudar como resumos, videoaulas, exercicios e informações sobre os principais vestibulares do país. Além de dicas para melhorar a produtividade no estudo.
+The system has the essentials for the student who wants to study, such as summaries, video classes, exercises and information about the main entrance exams in the country. Plus tips to improve study productivity.
 
 ![image](images/main.jpeg)
 
-**Resumos** - O usuário pode escolher uma matéria para ver os resumos, como "Matemática, e a partir dai é encaminhado para uma tela de escolha do conteúdo como "Porcentagem , "Logaritmos" e afins. Esse modelo segue o mesmo padrão para outras matérias, sendo todos esses resumos produzidos pela equipe de alunos.
+**Resumos** - The user can choose a subject to see the summaries, such as "Mathematics, and from there he is forwarded to a screen for choosing the content such as "Percentage, "Logarithms" and the like. This model follows the same pattern for other subjects, with all these summaries being produced by the student team.
 
 ![image](images/math.jpeg)
 ![image](images/resume.jpeg)
 
-**Vídeo Aula** - Segue o mesmo padrão da funcionalidade anterior, entretanto agora encaminha-se para um vídeo do youtube relacionado ao tema escolhido, a escolha de vídeo aulas foi feita pela equipe de alunos. 
+**Vídeo Aula** - It follows the same pattern as the previous functionality, however now it moves to a youtube video related to the chosen topic, the choice of video lessons was made by the student team.
 
 ![image](images/video.jpeg)
 
-**Simulados** - Nessa tela o usuário escolhe uma matéria geral e poderá fazer um teste de 10 questões selecionadas dos maiores vestibulares do país. É exibido ao final do teste o número de acertos, além de cadastrar no banco de dados essa informação para o estudante observar seu progresso.
+**Simulados** - On this screen, the user chooses a general subject and will be able to take a test of 10 questions selected from the largest entrance exams in the country. At the end of the test, the number of correct answers is displayed, in addition to registering this information in the database for the student to observe their progress.
 
 ![image](images/test.jpeg)
 
-**Redação** - Nessa opção é exibido ao usuário algumas dicas para uma melhor redação, além de permitir que o mesmo veja os últimos temas, possíveis temas e modo de avaliação para as redações do ENEM, Fuvest, Unicamp e Unesp.
+**Redação** - This option shows the user some tips for a better essay, in addition to allowing him to see the latest topics, possible topics and evaluation mode for ENEM, Fuvest, Unicamp and Unesp newsrooms.
 
 ![image](images/redacao.jpeg)
 
-**Vestibulares** - Essa tela exibe ao usuário informações gerais sobre os maiores vestibulares, além de sua data de aplicação e site oficial.
+**Vestibulares** - This screen shows the user general information about the major entrance exams, in addition to their application date and official website.
 
 ![image](images/vestibulares.jpeg)
 
-## Execução
+<!-- HOW TO RUN -->
+## 🚀 How To Run
 
-A execução da aplicação é feita na IDE da Microsoft, o Visual Studio. 
+### Terminal
+```bash
 
+# Clone the repository
+$ git clone https://github.com/antuniooh/ClassroomProject.git
+
+# Access the project folder in your terminal / cmd
+$ cd ClassroomProject
+
+# Open in VSCodeStudio
+
+```
 ## Integrantes
 
 O software em questão foi desenvolvido por um grupo de 4 pessoas.

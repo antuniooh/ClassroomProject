@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/antuniooh/ClassroomProject">
-    <img src="imagens/logo redondo.png" alt="Logo" width="550">
+    <img src="https://github.com/antuniooh/ClassroomWebsiteProject/blob/master/imagens/logo%20redondo.png" alt="Logo" width="550">
   </a>
 </p>
 

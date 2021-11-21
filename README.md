@@ -95,15 +95,11 @@ $ cd ClassroomProject
 # Open in VSCodeStudio
 
 ```
-## Integrantes
 
-O software em questão foi desenvolvido por um grupo de 4 pessoas.
+## 🤖 Authors
 
-Beatriz Villas Boas - https://www.linkedin.com/in/beatriz-vilas-boas-020209171/
+[Antonio Gustavo](https://www.linkedin.com/in/antuniooh/)           |  [Beatriz Villas](https://www.linkedin.com/in/beatriz-vilas-boas-020209171/)           |  [Luiz Otavio](https://www.linkedin.com/in/luiz-ot%C3%A1vio-prado-9a743b162/)           |  [Lais Julia](https://www.linkedin.com/in/)           
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://avatars.githubusercontent.com/u/51217271?v=4" alt="drawing" width="150"/>  |  <img src="https://avatars.githubusercontent.com/u/48650626?v=4" alt="drawing" width="150"/>| <img src="https://avatars.githubusercontent.com/u/56837996?v=4" alt="drawing" width="150"/>| <img src="https://avatars.githubusercontent.com/u/56837996?v=4" alt="drawing" width="150"/>
 
-Luiz Otavio - https://www.linkedin.com/in/luiz-ot%C3%A1vio-prado-9a743b162/
-
-Antonio Muniz - https://www.linkedin.com/in/antuniooh/
-
-Lais Julia - 
 

@@ -1,5 +1,45 @@
-# Classroom - Software de Estudos
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/antuniooh/ClassroomProject">
 
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/antuniooh/ClassroomProject">
+  
+  <a href="https://github.com/antuniooh/ClassroomWebsiteProject/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/antuniooh/ClassroomProject">
+  </a>
+  
+   <img alt="GitHub" src="https://img.shields.io/github/license/antuniooh/ClassroomProject">
+</p>
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/antuniooh/ClassroomProject">
+    <img src="imagens/logo redondo.png" alt="Logo" width="550">
+  </a>
+</p>
+
+<p align="center">
+  <img alt="C#" src="https://img.shields.io/badge/C#-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#-about-the-project">About The Project</a>
+    </li>
+    <li>
+      <a href="#-how-to-run">How To Run</a>
+    </li>
+  </ol>
+</details>
+
+
+<!-- ABOUT THE PROJECT -->
+## 💻 About The Project
 Projeto para conclusão do curso técnico de informática da ETEC Lauro Gomes. Foi desenvolvido na linguagem de programação C# e possui conexão ao banco de dados externo por meio do SQLServer. O projeto consiste em um software de estudos, apresentando resumos, videoaulas, exercícios e informações dos maiores vestibulares do país. 
 
 ## Funcionalidade
